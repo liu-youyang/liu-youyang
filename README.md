@@ -24,8 +24,11 @@
 ![Typst](https://img.shields.io/badge/-Typst-333?style=flat&logo=typst)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
-**Mathematical & Statistical Foundations:**  
-Probability theory, mathematical statistics, stochastic processes, high-dimensional statistics, asymptotic theory
+📐 **Mathematical Foundations**  
+Real analysis, functional analysis, stochastic analysis, matrix theory
+
+📊 **Statistical Foundations**  
+Multivariate analysis, regression analysis, asymptotic statistics, statistical computing
 
 ---
 
