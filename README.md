@@ -9,7 +9,9 @@
 - 💼 Internship:
   - Tianjin Bureau of Statistics (2025.7 – 2025.9)
 - 🔭 Currently working on: image editing tasks using diffusion and flow-based models
-- 🌱 Learning: advanced probability, advanced mathematical statistics, modern statistical methods; also studying flow matching and diffusion models
+- 🌱 Learning:
+  - advanced probability, advanced mathematical statistics, modern statistical methods
+  - also studying generative image models, including flow matching and diffusion models
 - 📚 My B.Sc. training was more theory-oriented, with an emphasis on mathematical foundations and statistical theory
 - 📫 Reach me: `omichle@foxmail.com`
 
