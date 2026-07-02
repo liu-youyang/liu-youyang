@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 M.Sc. in Statistics (academic) @ Nankai University, expected Sep 2026  
+- 🎓 M.Sc. in Statistics @ Nankai University, 2026 - now
 - 🎓 B.Sc. in Statistics @ Nankai University, 2022 – 2026
 - 💼 Internship:
   - Tianjin Bureau of Statistics (2025.7 – 2025.9)
