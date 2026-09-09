@@ -6,8 +6,8 @@ My undergraduate training emphasized mathematical foundations and statistical th
 
 ## Education
 
-- **M.Sc. in Statistics**, Nankai University · 2026–present
-- **B.Sc. in Statistics**, Nankai University · 2022–2026
+- **M.Sc. in Statistics**, Nankai University · 2026 – present
+- **B.Sc. in Statistics**, Nankai University · 2022 – 2026
 
 ## Background
 
@@ -16,7 +16,7 @@ My undergraduate training emphasized mathematical foundations and statistical th
 
 ## Experience
 
-- **Intern**, Tianjin Bureau of Statistics · Jul–Sep 2025
+- **Intern**, Tianjin Bureau of Statistics · Jul – Sep 2025
 
 ## Contact
 
