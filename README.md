@@ -1,4 +1,4 @@
-# 刘悠扬 | Youyang Liu
+# 刘悠扬 | LIU Youyang
 
 I'm an M.Sc. student in Statistics at Nankai University. My current work focuses on image editing with diffusion and flow-based generative models.
 
