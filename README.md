@@ -1,36 +1,23 @@
-# Hi there, I'm 刘悠扬 (LIU Youyang) 👋
+# 刘悠扬 | Youyang Liu
 
-[![Mail](https://img.shields.io/badge/Email-omichle@foxmail.com-blue?style=flat&logo=gmail)](mailto:omichle@foxmail.com)
+I'm an M.Sc. student in Statistics at Nankai University. My current work focuses on image editing with diffusion and flow-based generative models.
 
-## 🧑‍💻 About Me
+My undergraduate training emphasized mathematical foundations and statistical theory. I'm currently studying advanced probability, mathematical statistics, and modern statistical methods.
 
-- 🎓 M.Sc. in Statistics @ Nankai University, 2026 - now
-- 🎓 B.Sc. in Statistics @ Nankai University, 2022 – 2026
-- 💼 Internship:
-  - Tianjin Bureau of Statistics (2025.7 – 2025.9)
-- 🔭 Currently working on: image editing tasks using diffusion and flow-based models
-- 🌱 Learning:
-  - advanced probability, advanced mathematical statistics, modern statistical methods
-  - also studying generative image models, including flow matching and diffusion models
-- 📚 My B.Sc. training was more theory-oriented, with an emphasis on mathematical foundations and statistical theory
-- 📫 Reach me: `omichle@foxmail.com`
+## Education
 
-## 🛠️ Tech Stack
+- **M.Sc. in Statistics**, Nankai University · 2026–present
+- **B.Sc. in Statistics**, Nankai University · 2022–2026
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![R](https://img.shields.io/badge/-R-333?style=flat&logo=r)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
-![LaTeX](https://img.shields.io/badge/-LaTeX-333?style=flat&logo=latex)
-![Typst](https://img.shields.io/badge/-Typst-333?style=flat&logo=typst)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+## Background
 
-📐 **Mathematical Foundations**  
-Real analysis, functional analysis, stochastic analysis, matrix theory
+- **Mathematics:** Real analysis, functional analysis, stochastic analysis, matrix theory
+- **Statistics:** Multivariate analysis, regression analysis, asymptotic statistics, statistical computing
 
-📊 **Statistical Foundations**  
-Multivariate analysis, regression analysis, asymptotic statistics, statistical computing
+## Experience
 
----
+- **Intern**, Tianjin Bureau of Statistics · Jul–Sep 2025
 
-⭐️ From [刘悠扬](https://github.com/liu-youyang)
+## Contact
 
+[liu.youyang@outlook.com](mailto:liu.youyang@outlook.com)
