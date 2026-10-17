@@ -1,8 +1,8 @@
 # 刘悠扬 | LIU Youyang
 
-I'm an M.Sc. student in Statistics at Nankai University. My current work focuses on image editing with diffusion and flow-based generative models.
+I am an M.Sc. student in Statistics at Nankai University, and my current research focuses on image editing with diffusion and flow-based generative models.
 
-My undergraduate training emphasized mathematical foundations and statistical theory. I'm currently studying advanced probability, mathematical statistics, and modern statistical methods.
+My undergraduate training emphasized mathematical foundations and statistical theory. I am now studying advanced probability and several modern statistical methods out of personal interest.
 
 ## Education
 
