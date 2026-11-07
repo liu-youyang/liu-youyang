@@ -27,6 +27,7 @@ My undergraduate training emphasized mathematical foundations and statistical th
     </td>
   </tr>
 </table>
+
 ## Internship
 - **Intern**, Tianjin Bureau of Statistics · Jul – Sep 2025
 
