@@ -11,10 +11,10 @@ My undergraduate training emphasized mathematical foundations and statistical th
 
 ## Background
 
-| | |
+|  |  |
+| --- | --- |
 | **Courses** | Measure Theory · Probability · Stochastic Analysis · Functional Analysis · Matrix Theory<br>Statistical Inference · Multivariate Statistics · High-Dimensional Statistics · Asymptotic Statistics · Statistical Computing · Regression Analysis |
 | **Skills** | Python · R · PyTorch · LaTeX & Typst<br>Statistical Simulation & Resampling · Statistical Modeling & Hypothesis Testing · Spatial Data Analysis · Questionnaire Design & Reliability/Validity Testing |
-## Experience
 
 - **Intern**, Tianjin Bureau of Statistics · Jul – Sep 2025
 
